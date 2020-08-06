@@ -1,9 +1,8 @@
 ### Hi there 👋
-<div align="center">
-<!-- About me image -->
-<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='center' width='29%'>
 
-<div align="left">
+<!-- About me image -->
+<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
+
 ##  About Me :wave: 
 - :house: I'm a <b>software engineer</b> based in Spain 🇪🇸  </a>
 - 😄 Programming is my <b>job AND my hobby</b>
@@ -16,12 +15,12 @@
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
  
- <div>
+
 
 ---
 
 <a href="https://github.com/memoriasIT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoriasIT&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoriasIT&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" />
 </a>
 
 
@@ -36,10 +35,10 @@
 
 
 <a href="https://github.com/memoriasIT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=memoriasIT&include_all_commits=true&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" alt="memoriasIT's GitHub Stats" align='left'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=memoriasIT&include_all_commits=true&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" alt="memoriasIT's GitHub Stats"/>
 </a>
 <a href="https://github.com/memoriasIT">
-<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='190px'>
+<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='center' height='190px'>
 </a>
 
-</div>
+
