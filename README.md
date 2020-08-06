@@ -4,12 +4,12 @@
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
 
 ##  About Me :wave: 
-- :house: I'm a software engineer based in Spain 🇪🇸  </a>
-- 😄 Programming is my job AND my hobby
-- :boom: Interested in security and programming
-- :movie_camera: Teaching with YouTube videos! 
-- :snake: Python is bae, but I don't discriminate
-- 💬 Always willing to help! Reach out:
+- :house: I'm a <b>software engineer</b> based in Spain 🇪🇸  </a>
+- 😄 Programming is my <b>job AND my hobby</b>
+- :boom: Interested in <b> security</b> and programming
+- :movie_camera: Teaching with <b>YouTube videos! </b>
+- :snake: <b>Python</b> is bae, but I don't discriminate
+- 💬 Always willing to help! <b>Reach out:</b>
 
 <!-- comment -->
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
