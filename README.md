@@ -1,3 +1,4 @@
+<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/githubBanner.png' width='100%'>
 <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/Sin%20t%C3%ADtulo-1.png' width='100%'>
 
 <!-- About me image -->
