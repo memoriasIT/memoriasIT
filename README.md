@@ -13,6 +13,7 @@
 
 <!-- comment -->
   <a href="https://www.youtube.com/c/memoriasdeuninformatico"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/04b58c21f0f34c7b39bfe835530e7e6ec75d28ff/youtube.svg"></a>
+ <p>       </p> 
   <a href="https://twitter.com/memoriasit"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/04b58c21f0f34c7b39bfe835530e7e6ec75d28ff/twitter(1).svg"></a>
  
 
