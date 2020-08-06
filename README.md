@@ -1,5 +1,4 @@
 <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/githubBanner.png' width='100%'>
-<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/Sin%20t%C3%ADtulo-1.png' width='100%'>
 
 <!-- About me image -->
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
@@ -39,8 +38,7 @@
 <a href="https://github.com/memoriasIT">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=memoriasIT&include_all_commits=true&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" alt="memoriasIT's GitHub Stats"/>
 </a>
-<a href="https://github.com/memoriasIT">
-<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='center' height='190px'>
-</a>
-
+<!-- comment 
+<a href="https://github.com/memoriasIT"><img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='center' height='190px'></a>
+-->
 
