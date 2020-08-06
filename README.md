@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='35%'>
+<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
 
 ## About Me
 - :school: I'm a software engineer based on spain 🇪🇸  </a>
