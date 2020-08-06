@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+<!-- About me image -->
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
 
-## About Me
-- :school: I'm a software engineer based on spain 🇪🇸  </a>
+##  About Me :wave: 
+- :house: I'm a software engineer based in Spain 🇪🇸  </a>
 - 😄 Programming is my job AND my hobby
 - :boom: Interested in security and programming
 - :movie_camera: Teaching with YouTube videos! 
-- :snake: Python is bae, but I hate no one
+- :snake: Python is bae, but I don't discriminate
 - 💬 Always willing to help! Reach out:
 
 <!-- comment -->
@@ -26,6 +27,7 @@
   <img align="center" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/3d06185ec2a1d905f45b22e46c153b37fa41e27b/languagesProfile.svg"/ height='170px'>
 </a>
 
+<br>
 <br>
 
 
