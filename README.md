@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center">
 <!-- About me image -->
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
 
@@ -39,3 +39,4 @@
 <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='190px'>
 </a>
 
+</div>
