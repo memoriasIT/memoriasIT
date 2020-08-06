@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memoriasIT&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff)](https://github.com/memoriasIT)
+
+<a href="https://github.com/memoriasIT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=memoriasIT&include_all_commits=true&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" alt="memoriasIT's GitHub Stats" />
+</a>
+
