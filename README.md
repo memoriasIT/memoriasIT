@@ -1,8 +1,9 @@
 ### Hi there 👋
 <div align="center">
 <!-- About me image -->
-<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
+<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='center' width='29%'>
 
+<div align="left">
 ##  About Me :wave: 
 - :house: I'm a <b>software engineer</b> based in Spain 🇪🇸  </a>
 - 😄 Programming is my <b>job AND my hobby</b>
@@ -14,6 +15,8 @@
 <!-- comment -->
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+ 
+ <div>
 
 ---
 
