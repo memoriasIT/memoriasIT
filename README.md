@@ -26,11 +26,11 @@
 
 
 <a href="https://github.com/memoriasIT">
-  <img align="center" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/3d06185ec2a1d905f45b22e46c153b37fa41e27b/languagesProfile.svg"/>
+  <img align="center" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/3d06185ec2a1d905f45b22e46c153b37fa41e27b/languagesProfile.svg"/ height='170px'>
 </a>
 
 <a href="https://github.com/memoriasIT">
-<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='150px'>
+<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='170px'>
 </a>
 
 
