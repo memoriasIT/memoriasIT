@@ -3,16 +3,14 @@
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='35%'>
 
 ## About Me
-- :school: I'm [](fdsafdsa) based on spain :spainflag:  </a>
-- 🔭 I’m currently working on  **Competitive Programming**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **Data Analyasis with Python**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+- :school: I'm a software engineer based on spain 🇪🇸  </a>
+- 😄 Programming is my job AND my hobby
+- :boom: Interested in security and programming
+- :movie_camera: Teaching with YouTube videos! 
+- :snake: Python is bae, but I hate no one
+- 💬 Always willing to help! Reach out:
+
+<!-- comment -->
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
