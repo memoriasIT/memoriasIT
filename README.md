@@ -1,7 +1,7 @@
 <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/githubBanner.png' width='100%'>
 
 <!-- About me image -->
-<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
+<img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='300vw'>
 
 ##  About Me :wave: 
 - :house: I'm a <b>software engineer</b> based in Spain 🇪🇸  </a>
