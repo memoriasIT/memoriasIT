@@ -1,7 +1,5 @@
 <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/Sin%20t%C3%ADtulo-1.png' width='100%'>
 
-<br>
-
 <!-- About me image -->
 <img src='https://github.com/memoriasIT/memoriasIT/blob/master/pointme.png' align='left' width='29%'>
 
