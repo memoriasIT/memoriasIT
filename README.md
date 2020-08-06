@@ -12,8 +12,8 @@
 - 💬 Always willing to help! <b>Reach out:</b>
 
 <!-- comment -->
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://www.youtube.com/c/memoriasdeuninformatico"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/04b58c21f0f34c7b39bfe835530e7e6ec75d28ff/youtube.svg"></a>
+  <a href="https://twitter.com/memoriasit"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/04b58c21f0f34c7b39bfe835530e7e6ec75d28ff/twitter(1).svg"></a>
  
 
 
