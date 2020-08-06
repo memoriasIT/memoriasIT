@@ -18,7 +18,6 @@
 
 ---
 
-
 <a href="https://github.com/memoriasIT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memoriasIT&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff"/>
 </a>
@@ -29,12 +28,14 @@
   <img align="center" src="https://raw.githubusercontent.com/memoriasIT/memoriasIT/3d06185ec2a1d905f45b22e46c153b37fa41e27b/languagesProfile.svg"/ height='170px'>
 </a>
 
+<br>
+
+
 <a href="https://github.com/memoriasIT">
-<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='170px'>
+<img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/languages.png' align='left' height='190px'>
 </a>
-
-
 <a href="https://github.com/memoriasIT">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=memoriasIT&include_all_commits=true&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=04a37c&text_color=000&icon_color=2bbc8a&bg_color=fff" alt="memoriasIT's GitHub Stats" />
 </a>
+
 
