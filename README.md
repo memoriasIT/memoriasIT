@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/Logo.png' width='250px'>
+  <img src='https://raw.githubusercontent.com/memoriasIT/memoriasIT/master/Logo.png' width='350px'>
 </h1>
 
 <!-- About me image -->
