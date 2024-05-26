@@ -10,9 +10,9 @@
 ##  About Me :wave: 
 - :house: I'm a <b>software engineer</b> based in Spain 🇪🇸  </a>
 - 😄 Programming is my <b>job AND my hobby</b>
-- :boom: Interested in <b> security</b> and programming
+- :boom: Interested in <b> mobile dev</b> and security
 - :movie_camera: Teaching with <b>YouTube videos! </b>
-- :snake: <b>Python</b> is bae, but I don't discriminate
+- :snake: <b>Dart & Python</b> are baes, but I don't discriminate
 - 💬 Always willing to help! <b>Reach out:</b>
 
 <!-- comment 
